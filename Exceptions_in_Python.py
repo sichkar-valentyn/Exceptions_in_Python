@@ -1,3 +1,16 @@
+# File: Exceptions_in_Python.py
+# Description: Examples on how to catch and through the exceptions in python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Examples on how to catch and through the exceptions in python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Exceptions_in_Python (date of access: XX.XX.XXXX)
+
+
+
 print('This line was executed')
 
 
