@@ -6,9 +6,9 @@ Examples on how to catch and through the exceptions in python
 
 ## Description
 <br/> - Handling the exceptions.
-<br/> - Catching exceptions
-<br/> - Creating new exceptions
-<br/> - Through exception
+<br/> - Catching exceptions.
+<br/> - Creating new exceptions.
+<br/> - Through exception.
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
